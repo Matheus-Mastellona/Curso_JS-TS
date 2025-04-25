@@ -1,0 +1,2 @@
+# Devhub-Plataforma-Aprendizado-JS-TS
+O **DevHub** é uma aplicação web desenvolvida como projeto final do curso [Curso de JavaScript e TypeScript do básico ao avançado JS/TS](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/). Este projeto visa consolidar os conhecimentos adquiridos ao longo do curso, abrangendo desde conceitos básicos até tópicos avançados de JavaScript e TypeScript, além de integração com frameworks modernos como React e Express.&#8203;:contentReference[oaicite:4]{index=4}
