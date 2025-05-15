@@ -1,0 +1,1 @@
+const vara = 0;
