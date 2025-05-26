@@ -17,7 +17,7 @@ Este projeto visa consolidar os conhecimentos adquiridos ao longo do curso, abra
 
 ### Frontend:
 - React.js com TypeScript
-- React Router
+- React Router  
 - Axios
 - Styled-components
 
