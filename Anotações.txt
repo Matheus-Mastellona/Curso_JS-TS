@@ -1,3 +1,5 @@
 code runner
 node: https://nodejs.org/en/download/
-MDN - w3school - ecmascript
+MDN - w3school - ecmascript - mozilla
+
+Shift + Alt + A = Bloco de Comentário (Multilinha)
